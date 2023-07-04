@@ -10,7 +10,3 @@ A maior parte dos exercicios realizados foram todos desenvolvidos em linguagem C
 ### 📋 Pré-requisitos
 
 Para executar basta abrir os projetos em qualquer compilador com as devidas configurações para execução em C.
-
-## 📦 Implantação
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
