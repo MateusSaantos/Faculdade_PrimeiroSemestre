@@ -3,7 +3,7 @@
 Seja bem vindo!!
 Este é basicamente um pequeno registro de alguns dos meus códigos e projetos realizados durante a faculdade no primeiro semestre. 
 
-## 🚀 Começando
+### 🚀 Começando
 
 A maior parte dos exercicios realizados foram todos desenvolvidos em linguagem C, fique a vontade para acessar qualquer conteudo.
 
