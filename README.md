@@ -1,12 +1,5 @@
-# Faculdade primeiro semestre
+### Olá, estes são meus exercícios, trabalhos e atividades do primeiro semestre da faculdade Universidade Federal de Ouro Preto(UFOP) 👋
+#### Fique a vontade!! 😄
 
-Seja bem vindo!!
-Este é basicamente um pequeno registro de alguns dos meus códigos e projetos realizados durante a faculdade no primeiro semestre. 
-
-### 🚀 Começando
-
-A maior parte dos exercicios realizados foram todos desenvolvidos em linguagem C, fique a vontade para acessar qualquer conteudo.
-
-### 📋 Pré-requisitos
-
-Para executar basta abrir os projetos em qualquer compilador com as devidas configurações para execução em C.
+- 💬 Linkedin: https://www.linkedin.com/in/mateus-santos-16523a1a3
+- 📫 Email: mateus_saantos@outlook.com
